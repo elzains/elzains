@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi guys 👋
 ## Keep Learning and Stay Humble
 
 ### Frontend Dev Javascript
