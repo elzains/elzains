@@ -1,5 +1,5 @@
 ### Hi guys 👋
-## Keep Learning and Stay Humble
+## Keep Learning and Stay Foolish
 
 ### Frontend Dev Javascript
 
